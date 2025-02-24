@@ -10,6 +10,6 @@ public class App {
         int b = scan.nextInt();
         int c = scan.nextInt();
 
-        System.out.println("%d\n%d\n%d\n",a,b,c);
+        System.out.printf("%d\n%d\n%d\n",a,b,c);
     }
 }
